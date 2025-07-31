@@ -18,7 +18,7 @@ This Power BI dashboard provides a comprehensive overview of Netflix data, helpi
 
 ## 🖼 Dashboard Preview
 
-(Add screenshot here later)
+
 
 ## 🚀 Outcome
 
