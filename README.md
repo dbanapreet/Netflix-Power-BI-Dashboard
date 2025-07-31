@@ -14,7 +14,7 @@ This Power BI dashboard provides a comprehensive overview of Netflix data, helpi
 - Country-wise content distribution
 - Popular content types (TV Show vs Movie)
 - Genre breakdown with filters
-- Interactive filtering by year, country, and content type
+- Interactive filtering by year, country, and content type.
 
 ## 🖼 Dashboard Preview
 
